@@ -1,7 +1,7 @@
 NSC - Removedor de Caracteres Especiais
 =======================================
 
-O NSC é uma aplicação web que remove caracteres especiais de um texto inserido pelo usuário. Ele foi desenvolvido usando HTML, CSS, JavaScript e a biblioteca Clipboard.js.
+O NSC (No Special Characters) é uma aplicação web que remove caracteres especiais de um texto inserido pelo usuário. Ele foi desenvolvido usando HTML, CSS, JavaScript e a biblioteca Clipboard.js.
 
 Como utilizar o NSC?
 --------------------
